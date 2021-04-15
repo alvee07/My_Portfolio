@@ -1,4 +1,4 @@
-# my_Portfolio
+# My_Portfolio
 My Personal Portfolio as a website written in 2017.
 Languages used in PHP, JavaScript, jQuery etc.
 
